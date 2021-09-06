@@ -1,2 +1,4 @@
-isertin
+insertion
+from d10
+:wqisertin
 welcom to ibm
